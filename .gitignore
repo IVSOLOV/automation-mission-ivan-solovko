@@ -11,3 +11,9 @@ target/
 
 # Misc
 *.log
+target/
+*.log
+*.dump
+*.zip
+.idea/
+.DS_Store
